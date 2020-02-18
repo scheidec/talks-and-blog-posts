@@ -1,9 +1,9 @@
-Portfolio of Talks and Blog Posts
+# Portfolio of Talks and Blog Posts
 
 ### Blog Posts
 
 - Developing R Packages with usethis and GitLab CI
-	- [Part I](https://blog.methodsconsultants.com/posts/developing-r-packages-with-usethis-and-gitlab-ci-part-i/)
+	- [Part I](https://blog.methodsconsultants.com/posts/developing-r-packages-using-gitlab-ci-part-i/)
 	- [Part II](https://blog.methodsconsultants.com/posts/developing-r-packages-with-usethis-and-gitlab-ci-part-ii/)
 	- [Part III](https://blog.methodsconsultants.com/posts/developing-r-packages-with-usethis-and-gitlab-ci-part-iii/)
 - [Be Aware of Bias in RF Variable Importance Metrics](https://blog.methodsconsultants.com/posts/be-aware-of-bias-in-rf-variable-importance-metrics/)
